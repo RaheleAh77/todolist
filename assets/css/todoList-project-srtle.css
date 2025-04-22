@@ -1,0 +1,27 @@
+body{
+    background-color: #353f5b;
+}
+
+.container .todo-box{
+    margin-top: 5%!important;
+}
+
+.container .todo-box .form-label{
+    text-transform: capitalize;
+}
+
+.todo-box .form-control{
+    background-color: #130f40!important;
+    max-width: 455px;
+    color: #fff;
+
+}
+
+.list-group-item-dark{
+    background-color: #423a6f;
+    border-bottom: 0.2px solid #302e2e!important;
+}
+
+.material-symbols-outlined{
+    cursor: pointer;
+}
